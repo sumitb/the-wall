@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hook", "hook\hook.vcxproj", "{903367E5-29E3-4D65-A45A-8CAD2D7E9865}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "injector", "injector\injector.vcxproj", "{271C2FAC-45C5-4C84-A2C4-D52AEAE9746E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{903367E5-29E3-4D65-A45A-8CAD2D7E9865}.Debug|Win32.ActiveCfg = Debug|Win32
+		{903367E5-29E3-4D65-A45A-8CAD2D7E9865}.Debug|Win32.Build.0 = Debug|Win32
+		{903367E5-29E3-4D65-A45A-8CAD2D7E9865}.Release|Win32.ActiveCfg = Release|Win32
+		{903367E5-29E3-4D65-A45A-8CAD2D7E9865}.Release|Win32.Build.0 = Release|Win32
+		{271C2FAC-45C5-4C84-A2C4-D52AEAE9746E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{271C2FAC-45C5-4C84-A2C4-D52AEAE9746E}.Debug|Win32.Build.0 = Debug|Win32
+		{271C2FAC-45C5-4C84-A2C4-D52AEAE9746E}.Release|Win32.ActiveCfg = Release|Win32
+		{271C2FAC-45C5-4C84-A2C4-D52AEAE9746E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
