@@ -8,9 +8,44 @@
 #pragma comment(lib, "detours.lib")
 #pragma comment(lib, "ws2_32.lib")
 
-HANDLE hFile;
-char* logFile = "C:\\Users\\sbindal\\vs2013\\Projects\\cse523\\Release\\log.txt";
+#define LOG_FILE L"C:\\Users\\sbindal\\vs2013\\Projects\\cse523\\Release\\MyLogFile.txt"
 
+TCHAR logBuffer[MAX_PATH];
+void PrintError(LPCTSTR errDesc);
+
+void WriteLog(char* text)
+{
+	HANDLE hfile = CreateFileW(LOG_FILE, FILE_APPEND_DATA, FILE_SHARE_READ, NULL, OPEN_ALWAYS, FILE_ATTRIBUTE_NORMAL, NULL);
+	DWORD written;
+	WriteFile(hfile, text, strlen(text), &written, NULL);
+	WriteFile(hfile, "\r\n", 2, &written, NULL);
+	CloseHandle(hfile);
+}
+
+void WriteLog(wchar_t* text)
+{
+	HANDLE hfile = CreateFileW(LOG_FILE,                // name of the write
+	FILE_APPEND_DATA,          // open for writing
+	FILE_SHARE_READ,       // share for reading
+	NULL,                   // default security
+	OPEN_ALWAYS,            // open file only
+	FILE_ATTRIBUTE_NORMAL,  // normal file
+	NULL);                  // no attr. template
+
+	DWORD written;
+	WriteFile(hfile, text, wcslen(text) * 2, &written, NULL);
+	WriteFile(hfile, L"\r\n", 4, &written, NULL);
+	CloseHandle(hfile);
+}
+
+void EnableLogger(void) 
+{
+	WriteLog("Hello, I'm a dll\n");
+	sprintf_s(logBuffer, TEXT("Start of log file.\n"));
+	WriteLog(logBuffer);
+}
+
+/*
 void __cdecl logger(char DataBuffer[])
 {
 	DWORD dwBytesToWrite = (DWORD)strlen(DataBuffer);
@@ -24,7 +59,39 @@ void __cdecl logger(char DataBuffer[])
 		&dwBytesWritten, // number of bytes that were written
 		NULL);            // no overlapped structure
 
-	_tprintf(TEXT("Wrote %d bytes to %s successfully.\n"), dwBytesWritten, logFile);
+	sprintf_s(logBuffer, TEXT("Wrote %d bytes to %s successfully.\n"), dwBytesWritten, logFile);
+	WriteLog(logBuffer);
+}
+*/
+
+//  ErrorMessage support function.
+//  Retrieves the system error message for the GetLastError() code.
+//  Note: caller must use LocalFree() on the returned LPCTSTR buffer.
+LPCTSTR ErrorMessage(DWORD error)
+{
+	LPVOID lpMsgBuf;
+
+	FormatMessage(FORMAT_MESSAGE_ALLOCATE_BUFFER
+		| FORMAT_MESSAGE_FROM_SYSTEM
+		| FORMAT_MESSAGE_IGNORE_INSERTS,
+		NULL,
+		error,
+		MAKELANGID(LANG_NEUTRAL, SUBLANG_DEFAULT),
+		(LPTSTR)&lpMsgBuf,
+		0,
+		NULL);
+
+	return((LPCTSTR)lpMsgBuf);
+}
+
+//  PrintError support function.
+//  Simple wrapper function for error output.
+void PrintError(LPCTSTR errDesc)
+{
+	LPCTSTR errMsg = ErrorMessage(GetLastError());
+	sprintf_s(logBuffer, TEXT("\n** ERROR ** %s: %s\n"), errDesc, errMsg);
+	WriteLog(logBuffer);
+	LocalFree((LPVOID)errMsg);
 }
 
 void printStack(void)
@@ -37,6 +104,7 @@ void printStack(void)
 	char		   buffer[100];
 	char		   stackBuffer[3000];
 
+	MessageBoxA(NULL, "Debug", "Stack Trace", MB_OK);
 	process = GetCurrentProcess();
 
 	SymInitialize(process, NULL, TRUE);
@@ -50,10 +118,13 @@ void printStack(void)
 	{
 		SymFromAddr(process, (DWORD64)(stack[i]), 0, symbol);
 
-		sprintf_s(buffer, "%i: %s - 0x%0X\n", frames - i - 1, symbol->Name, symbol->Address);
+		sprintf_s(buffer, "%i: %s - 0x%0X\r\n", frames - i - 1, symbol->Name, symbol->Address);
 		strcat_s(stackBuffer, buffer);
 	}
 	//MessageBoxA(NULL, stackBuffer, "Stack Trace", MB_OK);
+	//sprintf_s(logBuffer, "Stack Trace: %s", stackBuffer);
+	WriteLog(TEXT("Stack Trace: \r\n"));
+	WriteLog(stackBuffer);
 	free(symbol);
 }
 
@@ -279,8 +350,9 @@ BOOL __stdcall Mine_VirtualProtect(LPVOID a0,
 	DWORD a2,
 	PDWORD a3)
 {
-	//_PrintEnter("VirtualProtectEx(%p,%p,%p,%p,%p)\n", a0, a1, a2, a3, a4);
-	//MessageBoxA(NULL, "VirtualProtect hook!!", "Hook Message", MB_OK);
+	// _PrintEnter("VirtualProtectEx(%p,%p,%p,%p,%p)\n", a0, a1, a2, a3, a4);
+	// MessageBoxA(NULL, "VirtualProtect hook!!", "Hook Message", MB_OK);
+	
 	printStack();
 	BOOL rv = 0;
 	__try {
@@ -316,22 +388,14 @@ BOOL __stdcall Mine_VirtualProtectEx(HANDLE a0,
 //
 BOOL WINAPI DllMain(HINSTANCE hinst, DWORD dwReason, LPVOID reserved)
 { 	
+	LPTSTR szPathBuffer = NULL;
+	
 	if (DetourIsHelperProcess()) {
 		return TRUE;
 	}
-	
-	hFile = CreateFile(logFile,                // name of the write
-		GENERIC_WRITE,          // open for writing
-		FILE_SHARE_WRITE,       // share for writing
-		NULL,                   // default security
-		OPEN_ALWAYS,            // open file only
-		FILE_ATTRIBUTE_NORMAL,  // normal file
-		NULL);                  // no attr. template
-
-	_tprintf(TEXT("Start of log file @ %s.\n"), logFile);
-	
 
 	if (dwReason == DLL_PROCESS_ATTACH) {	
+		EnableLogger();
 		DetourRestoreAfterWith();
 
 		DetourTransactionBegin();

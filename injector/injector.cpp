@@ -82,7 +82,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	pid = wcstol(argv[1], &pEnd, 10);
 	// pid = atof((const char*)argv[1]);
 	/* Dll injection in a running process with pid */
-	Inject(pid, "C:\\Users\\sbindal\\vs2013\\Projects\\cse523\\Release\\hook.dll");
+	Inject(pid, "C:\\Users\\sbindal\\vs2013\\Projects\\cse523\\Release\\detoured.dll");
 
 	/*if (argc < 3)
 	{
@@ -99,8 +99,8 @@ int _tmain(int argc, _TCHAR* argv[])
 	GetCurrentDirectoryA(MAX_PATH, szDetouredDll);
 	GetCurrentDirectoryA(MAX_PATH, szDllName);
 
-	strcat_s(szDetouredDll, MAX_PATH, L"\\detoured.dll");
-	strcat_s(szDllName, MAX_PATH, L"\\");
+	strcat_s(szDetouredDll, MAX_PATH, "\\detoured.dll");
+	strcat_s(szDllName, MAX_PATH, "\\");
 
 #ifdef _UNICODE
 	WideCharToMultiByte(CP_ACP, 0, argv[1], -1,
