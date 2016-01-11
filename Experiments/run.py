@@ -13,11 +13,11 @@ processes = [r'C:\Program Files (x86)\Firefox Developer Edition\firefox.exe',
 			r'C:\Program Files (x86)\Steam\Steam.exe',
 			r'C:\Program Files (x86)\VideoLAN\VLC\vlc.exe',
 			r'C:\Program Files (x86)\Windows Media Player\wmplayer.exe',
-			r'C:\Program Files (x86)\Adobe\Reader 11.0\Reader\AcroRd32.exe']
+			r'C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe']
 
 def _main():
 	import subprocess, time
-	processes = [r'C:\Program Files (x86)\Windows Media Player\wmplayer.exe']
+	processes = [r'C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe']
 	for process in processes:
 		pid = subprocess.Popen([process, ""]).pid
 		# Sleep for few seconds to attach debugger

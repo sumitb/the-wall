@@ -1,0 +1,1142 @@
+Start of log file.
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6D9C1130
+19: Mine_VirtualProtect - 0x6D9C1B30
+18: DetourTransactionCommitEx - 0x6D9C3C60
+17: DetourTransactionCommit - 0x6D9C3C50
+16: DllMain - 0x6D9C1D90
+15: __DllMainCRTStartup - 0x6D9C4C95
+14: _DllMainCRTStartup - 0x6D9C4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6D9C1130
+19: Mine_VirtualProtect - 0x6D9C1B30
+18: DetourTransactionCommitEx - 0x6D9C3C60
+17: DetourTransactionCommit - 0x6D9C3C50
+16: DllMain - 0x6D9C1D90
+15: __DllMainCRTStartup - 0x6D9C4C95
+14: _DllMainCRTStartup - 0x6D9C4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6D9C1130
+19: Mine_VirtualProtect - 0x6D9C1B30
+18: DetourTransactionCommitEx - 0x6D9C3C60
+17: DetourTransactionCommit - 0x6D9C3C50
+16: DllMain - 0x6D9C1D90
+15: __DllMainCRTStartup - 0x6D9C4C95
+14: _DllMainCRTStartup - 0x6D9C4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6D9C1130
+19: Mine_VirtualProtect - 0x6D9C1B30
+18: DetourTransactionCommitEx - 0x6D9C3C60
+17: DetourTransactionCommit - 0x6D9C3C50
+16: DllMain - 0x6D9C1D90
+15: __DllMainCRTStartup - 0x6D9C4C95
+14: _DllMainCRTStartup - 0x6D9C4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6D9C1130
+19: Mine_VirtualProtect - 0x6D9C1B30
+18: DetourTransactionCommitEx - 0x6D9C3C60
+17: DetourTransactionCommit - 0x6D9C3C50
+16: DllMain - 0x6D9C1D90
+15: __DllMainCRTStartup - 0x6D9C4C95
+14: _DllMainCRTStartup - 0x6D9C4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6D9C1130
+19: Mine_VirtualProtect - 0x6D9C1B30
+18: DetourTransactionCommitEx - 0x6D9C3C60
+17: DetourTransactionCommit - 0x6D9C3C50
+16: DllMain - 0x6D9C1D90
+15: __DllMainCRTStartup - 0x6D9C4C95
+14: _DllMainCRTStartup - 0x6D9C4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6D9C1130
+19: Mine_VirtualProtect - 0x6D9C1B30
+18: DetourTransactionCommitEx - 0x6D9C3C60
+17: DetourTransactionCommit - 0x6D9C3C50
+16: DllMain - 0x6D9C1D90
+15: __DllMainCRTStartup - 0x6D9C4C95
+14: _DllMainCRTStartup - 0x6D9C4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6D9C1130
+19: Mine_VirtualProtect - 0x6D9C1B30
+18: DetourTransactionCommitEx - 0x6D9C3C60
+17: DetourTransactionCommit - 0x6D9C3C50
+16: DllMain - 0x6D9C1D90
+15: __DllMainCRTStartup - 0x6D9C4C95
+14: _DllMainCRTStartup - 0x6D9C4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6D9C1130
+19: Mine_VirtualProtect - 0x6D9C1B30
+18: DetourTransactionCommitEx - 0x6D9C3C60
+17: DetourTransactionCommit - 0x6D9C3C50
+16: DllMain - 0x6D9C1D90
+15: __DllMainCRTStartup - 0x6D9C4C95
+14: _DllMainCRTStartup - 0x6D9C4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6D9C1130
+19: Mine_VirtualProtect - 0x6D9C1B30
+18: DetourTransactionCommitEx - 0x6D9C3C60
+17: DetourTransactionCommit - 0x6D9C3C50
+16: DllMain - 0x6D9C1D90
+15: __DllMainCRTStartup - 0x6D9C4C95
+14: _DllMainCRTStartup - 0x6D9C4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+21: printStack - 0x6D9C1130
+20: Mine_VirtualProtect - 0x6D9C1B30
+19: detour_runnable_trampoline_regions - 0x6D9C32C0
+18: DetourTransactionCommitEx - 0x6D9C3C60
+17: DetourTransactionCommit - 0x6D9C3C50
+16: DllMain - 0x6D9C1D90
+15: __DllMainCRTStartup - 0x6D9C4C95
+14: _DllMainCRTStartup - 0x6D9C4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+8: printStack - 0x6D9C1130
+7: Mine_GetProcAddress - 0x6D9C1330
+6: Mine_GetProcAddress - 0x6D9C1330
+5: Mine_GetProcAddress - 0x6D9C1330
+4: Mine_GetProcAddress - 0x6D9C1330
+3: Mine_GetProcAddress - 0x6D9C1330
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+LoadLibraryW_StackTrace:
+
+10: printStack - 0x6D9C1130
+9: Mine_LoadLibraryW - 0x6D9C17E0
+8: Mine_LoadLibraryW - 0x6D9C17E0
+7: Mine_LoadLibraryW - 0x6D9C17E0
+6: Mine_LoadLibraryW - 0x6D9C17E0
+5: Mine_LoadLibraryW - 0x6D9C17E0
+4: Mine_LoadLibraryW - 0x6D9C17E0
+3: Mine_LoadLibraryW - 0x6D9C17E0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+8: printStack - 0x6D9C1130
+7: Mine_GetProcAddress - 0x6D9C1330
+6: Mine_GetProcAddress - 0x6D9C1330
+5: Mine_GetProcAddress - 0x6D9C1330
+4: Mine_GetProcAddress - 0x6D9C1330
+3: Mine_GetProcAddress - 0x6D9C1330
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+8: printStack - 0x6D9C1130
+7: Mine_GetProcAddress - 0x6D9C1330
+6: Mine_GetProcAddress - 0x6D9C1330
+5: Mine_GetProcAddress - 0x6D9C1330
+4: Mine_GetProcAddress - 0x6D9C1330
+3: Mine_GetProcAddress - 0x6D9C1330
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+8: printStack - 0x6D9C1130
+7: Mine_GetProcAddress - 0x6D9C1330
+6: Mine_GetProcAddress - 0x6D9C1330
+5: Mine_GetProcAddress - 0x6D9C1330
+4: Mine_GetProcAddress - 0x6D9C1330
+3: Mine_GetProcAddress - 0x6D9C1330
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+8: printStack - 0x6D9C1130
+7: Mine_GetProcAddress - 0x6D9C1330
+6: Mine_GetProcAddress - 0x6D9C1330
+5: Mine_GetProcAddress - 0x6D9C1330
+4: Mine_GetProcAddress - 0x6D9C1330
+3: Mine_GetProcAddress - 0x6D9C1330
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+14: printStack - 0x6D9C1130
+13: Mine_GetProcAddress - 0x6D9C1330
+12: Mine_GetProcAddress - 0x6D9C1330
+11: Mine_GetProcAddress - 0x6D9C1330
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+15: printStack - 0x6D9C1130
+14: Mine_GetProcAddress - 0x6D9C1330
+13: Mine_GetProcAddress - 0x6D9C1330
+12: Mine_GetProcAddress - 0x6D9C1330
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+15: printStack - 0x6D9C1130
+14: Mine_GetProcAddress - 0x6D9C1330
+13: Mine_GetProcAddress - 0x6D9C1330
+12: Mine_GetProcAddress - 0x6D9C1330
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+14: printStack - 0x6D9C1130
+13: Mine_GetProcAddress - 0x6D9C1330
+12: Mine_GetProcAddress - 0x6D9C1330
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+15: printStack - 0x6D9C1130
+14: Mine_GetProcAddress - 0x6D9C1330
+13: Mine_GetProcAddress - 0x6D9C1330
+12: AcroRd32IsBrokerProcess - 0x9BBB80
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+16: printStack - 0x6D9C1130
+15: Mine_GetProcAddress - 0x6D9C1330
+14: Mine_GetProcAddress - 0x6D9C1330
+13: AcroRd32IsBrokerProcess - 0x9BBB80
+12: AcroRd32IsBrokerProcess - 0x9BBB80
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+16: printStack - 0x6D9C1130
+15: Mine_GetProcAddress - 0x6D9C1330
+14: Mine_GetProcAddress - 0x6D9C1330
+13: AcroRd32IsBrokerProcess - 0x9BBB80
+12: AcroRd32IsBrokerProcess - 0x9BBB80
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+16: printStack - 0x6D9C1130
+15: Mine_GetProcAddress - 0x6D9C1330
+14: Mine_GetProcAddress - 0x6D9C1330
+13: AcroRd32IsBrokerProcess - 0x9BBB80
+12: AcroRd32IsBrokerProcess - 0x9BBB80
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+16: printStack - 0x6D9C1130
+15: Mine_GetProcAddress - 0x6D9C1330
+14: Mine_GetProcAddress - 0x6D9C1330
+13: AcroRd32IsBrokerProcess - 0x9BBB80
+12: AcroRd32IsBrokerProcess - 0x9BBB80
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+14: printStack - 0x6D9C1130
+13: Mine_GetProcAddress - 0x6D9C1330
+12: Mine_GetProcAddress - 0x6D9C1330
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+14: printStack - 0x6D9C1130
+13: Mine_GetProcAddress - 0x6D9C1330
+12: Mine_GetProcAddress - 0x6D9C1330
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+14: printStack - 0x6D9C1130
+13: Mine_GetProcAddress - 0x6D9C1330
+12: Mine_GetProcAddress - 0x6D9C1330
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+14: printStack - 0x6D9C1130
+13: Mine_GetProcAddress - 0x6D9C1330
+12: Mine_GetProcAddress - 0x6D9C1330
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+14: printStack - 0x6D9C1130
+13: Mine_GetProcAddress - 0x6D9C1330
+12: Mine_GetProcAddress - 0x6D9C1330
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+14: printStack - 0x6D9C1130
+13: Mine_GetProcAddress - 0x6D9C1330
+12: Mine_GetProcAddress - 0x6D9C1330
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+14: printStack - 0x6D9C1130
+13: Mine_GetProcAddress - 0x6D9C1330
+12: Mine_GetProcAddress - 0x6D9C1330
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+14: printStack - 0x6D9C1130
+13: Mine_GetProcAddress - 0x6D9C1330
+12: Mine_GetProcAddress - 0x6D9C1330
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+14: printStack - 0x6D9C1130
+13: Mine_GetProcAddress - 0x6D9C1330
+12: Mine_GetProcAddress - 0x6D9C1330
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+14: printStack - 0x6D9C1130
+13: Mine_GetProcAddress - 0x6D9C1330
+12: Mine_GetProcAddress - 0x6D9C1330
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+14: printStack - 0x6D9C1130
+13: Mine_GetProcAddress - 0x6D9C1330
+12: Mine_GetProcAddress - 0x6D9C1330
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+14: printStack - 0x6D9C1130
+13: Mine_GetProcAddress - 0x6D9C1330
+12: Mine_GetProcAddress - 0x6D9C1330
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+14: printStack - 0x6D9C1130
+13: Mine_GetProcAddress - 0x6D9C1330
+12: Mine_GetProcAddress - 0x6D9C1330
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+14: printStack - 0x6D9C1130
+13: Mine_GetProcAddress - 0x6D9C1330
+12: AcroRd32IsBrokerProcess - 0x9BBB80
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+LoadLibraryExA_StackTrace:
+
+8: printStack - 0x6D9C1130
+7: Mine_LoadLibraryExA - 0x6D9C1580
+6: Mine_LoadLibraryExA - 0x6D9C1580
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+8: printStack - 0x6D9C1130
+7: Mine_GetProcAddress - 0x6D9C1330
+6: Mine_GetProcAddress - 0x6D9C1330
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+8: printStack - 0x6D9C1130
+7: Mine_GetProcAddress - 0x6D9C1330
+6: Mine_GetProcAddress - 0x6D9C1330
+5: Mine_GetProcAddress - 0x6D9C1330
+4: Mine_GetProcAddress - 0x6D9C1330
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+18: printStack - 0x6D9C1130
+17: Mine_VirtualProtect - 0x6D9C1B30
+16: detour_writable_trampoline_regions - 0x6D9C3480
+15: DetourTransactionBegin - 0x6D9C3BE0
+14: DllMain - 0x6D9C1D90
+13: __DllMainCRTStartup - 0x6D9C4C95
+12: _DllMainCRTStartup - 0x6D9C4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+17: printStack - 0x6D9C1130
+16: Mine_VirtualProtect - 0x6D9C1B30
+15: DetourDetach - 0x6D9C3900
+14: DllMain - 0x6D9C1D90
+13: __DllMainCRTStartup - 0x6D9C4C95
+12: _DllMainCRTStartup - 0x6D9C4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+17: printStack - 0x6D9C1130
+16: Mine_VirtualProtect - 0x6D9C1B30
+15: DetourDetach - 0x6D9C3900
+14: DllMain - 0x6D9C1D90
+13: __DllMainCRTStartup - 0x6D9C4C95
+12: _DllMainCRTStartup - 0x6D9C4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+17: printStack - 0x6D9C1130
+16: Mine_VirtualProtect - 0x6D9C1B30
+15: DetourDetach - 0x6D9C3900
+14: DllMain - 0x6D9C1D90
+13: __DllMainCRTStartup - 0x6D9C4C95
+12: _DllMainCRTStartup - 0x6D9C4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+17: printStack - 0x6D9C1130
+16: Mine_VirtualProtect - 0x6D9C1B30
+15: DetourDetach - 0x6D9C3900
+14: DllMain - 0x6D9C1D90
+13: __DllMainCRTStartup - 0x6D9C4C95
+12: _DllMainCRTStartup - 0x6D9C4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+17: printStack - 0x6D9C1130
+16: Mine_VirtualProtect - 0x6D9C1B30
+15: DetourDetach - 0x6D9C3900
+14: DllMain - 0x6D9C1D90
+13: __DllMainCRTStartup - 0x6D9C4C95
+12: _DllMainCRTStartup - 0x6D9C4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+17: printStack - 0x6D9C1130
+16: Mine_VirtualProtect - 0x6D9C1B30
+15: DetourDetach - 0x6D9C3900
+14: DllMain - 0x6D9C1D90
+13: __DllMainCRTStartup - 0x6D9C4C95
+12: _DllMainCRTStartup - 0x6D9C4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+17: printStack - 0x6D9C1130
+16: Mine_VirtualProtect - 0x6D9C1B30
+15: DetourDetach - 0x6D9C3900
+14: DllMain - 0x6D9C1D90
+13: __DllMainCRTStartup - 0x6D9C4C95
+12: _DllMainCRTStartup - 0x6D9C4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+17: printStack - 0x6D9C1130
+16: Mine_VirtualProtect - 0x6D9C1B30
+15: DetourDetach - 0x6D9C3900
+14: DllMain - 0x6D9C1D90
+13: __DllMainCRTStartup - 0x6D9C4C95
+12: _DllMainCRTStartup - 0x6D9C4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+17: printStack - 0x6D9C1130
+16: Mine_VirtualProtect - 0x6D9C1B30
+15: DetourDetach - 0x6D9C3900
+14: DllMain - 0x6D9C1D90
+13: __DllMainCRTStartup - 0x6D9C4C95
+12: _DllMainCRTStartup - 0x6D9C4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+17: printStack - 0x6D9C1130
+16: Mine_VirtualProtect - 0x6D9C1B30
+15: DetourDetach - 0x6D9C3900
+14: DllMain - 0x6D9C1D90
+13: __DllMainCRTStartup - 0x6D9C4C95
+12: _DllMainCRTStartup - 0x6D9C4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+

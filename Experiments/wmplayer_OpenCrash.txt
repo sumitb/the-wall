@@ -1,0 +1,3352 @@
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6E041130
+19: Mine_VirtualProtect - 0x6E041B30
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6E041130
+19: Mine_VirtualProtect - 0x6E041B30
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6E041130
+19: Mine_VirtualProtect - 0x6E041B30
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6E041130
+19: Mine_VirtualProtect - 0x6E041B30
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6E041130
+19: Mine_VirtualProtect - 0x6E041B30
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6E041130
+19: Mine_VirtualProtect - 0x6E041B30
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6E041130
+19: Mine_VirtualProtect - 0x6E041B30
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6E041130
+19: Mine_VirtualProtect - 0x6E041B30
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6E041130
+19: Mine_VirtualProtect - 0x6E041B30
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6E041130
+19: Mine_VirtualProtect - 0x6E041B30
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+21: printStack - 0x6E041130
+20: Mine_VirtualProtect - 0x6E041B30
+19: detour_runnable_trampoline_regions - 0x6E0432C0
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+Start of log file.
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6E041130
+19: Mine_VirtualProtect - 0x6E041B30
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6E041130
+19: Mine_VirtualProtect - 0x6E041B30
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6E041130
+19: Mine_VirtualProtect - 0x6E041B30
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6E041130
+19: Mine_VirtualProtect - 0x6E041B30
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6E041130
+19: Mine_VirtualProtect - 0x6E041B30
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6E041130
+19: Mine_VirtualProtect - 0x6E041B30
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6E041130
+19: Mine_VirtualProtect - 0x6E041B30
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6E041130
+19: Mine_VirtualProtect - 0x6E041B30
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6E041130
+19: Mine_VirtualProtect - 0x6E041B30
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6E041130
+19: Mine_VirtualProtect - 0x6E041B30
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+21: printStack - 0x6E041130
+20: Mine_VirtualProtect - 0x6E041B30
+19: detour_runnable_trampoline_regions - 0x6E0432C0
+18: DetourTransactionCommitEx - 0x6E043C60
+17: DetourTransactionCommit - 0x6E043C50
+16: DllMain - 0x6E041D90
+15: __DllMainCRTStartup - 0x6E044C95
+14: _DllMainCRTStartup - 0x6E044C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+55: printStack - 0x6E041130
+54: Mine_GetProcAddress - 0x6E041330
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: RtlDecompressBuffer - 0x76F069D0
+49: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+48: LdrShutdownProcess - 0x76EE4340
+47: LdrShutdownProcess - 0x76EE4340
+46: EtwEventUnregister - 0x76EDF820
+45: RtlAddAccessAllowedAce - 0x76ED2C80
+44: RtlCompareUnicodeStrings - 0x76ECFAE0
+43: LdrLoadDll - 0x76ED3630
+42: LoadLibraryExW - 0x7643E740
+41: CoGetCallContext - 0x7626F060
+40: CoGetCallContext - 0x7626F060
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoCreateInstance - 0x76250060
+36: CoGetCallContext - 0x7626F060
+35: CoGetCallContext - 0x7626F060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoCreateInstance - 0x76250060
+24: CoCreateInstance - 0x76250060
+23: CoCreateInstance - 0x76250060
+22: Ordinal866 - 0x74068230
+21: Ordinal860 - 0x74062AF0
+20: Ordinal866 - 0x74068230
+19: SHGetStockIconInfo - 0x7400AE80
+18: SHDefExtractIconW - 0x7400A9B0
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHELL32_IconOverlayManagerInit - 0x7400AD00
+15: SHELL32_GetIconOverlayManager - 0x74091FF0
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+53: printStack - 0x6E041130
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: Mine_GetProcAddress - 0x6E041330
+49: RtlDecompressBuffer - 0x76F069D0
+48: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+47: LdrShutdownProcess - 0x76EE4340
+46: LdrShutdownProcess - 0x76EE4340
+45: LdrShutdownProcess - 0x76EE4340
+44: EtwEventUnregister - 0x76EDF820
+43: RtlAddAccessAllowedAce - 0x76ED2C80
+42: RtlCompareUnicodeStrings - 0x76ECFAE0
+41: LdrLoadDll - 0x76ED3630
+40: LoadLibraryExW - 0x7643E740
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoGetCallContext - 0x7626F060
+36: CoGetCallContext - 0x7626F060
+35: CoCreateInstance - 0x76250060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoGetCallContext - 0x7626F060
+24: CoGetCallContext - 0x7626F060
+23: CoCreateInstance - 0x76250060
+22: CoCreateInstance - 0x76250060
+21: CoCreateInstance - 0x76250060
+20: Ordinal866 - 0x74068230
+19: Ordinal860 - 0x74062AF0
+18: Ordinal866 - 0x74068230
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHDefExtractIconW - 0x7400A9B0
+15: Ordinal818 - 0x73FDDF60
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+53: printStack - 0x6E041130
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: Mine_GetProcAddress - 0x6E041330
+49: RtlDecompressBuffer - 0x76F069D0
+48: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+47: LdrShutdownProcess - 0x76EE4340
+46: LdrShutdownProcess - 0x76EE4340
+45: LdrShutdownProcess - 0x76EE4340
+44: EtwEventUnregister - 0x76EDF820
+43: RtlAddAccessAllowedAce - 0x76ED2C80
+42: RtlCompareUnicodeStrings - 0x76ECFAE0
+41: LdrLoadDll - 0x76ED3630
+40: LoadLibraryExW - 0x7643E740
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoGetCallContext - 0x7626F060
+36: CoGetCallContext - 0x7626F060
+35: CoCreateInstance - 0x76250060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoGetCallContext - 0x7626F060
+24: CoGetCallContext - 0x7626F060
+23: CoCreateInstance - 0x76250060
+22: CoCreateInstance - 0x76250060
+21: CoCreateInstance - 0x76250060
+20: Ordinal866 - 0x74068230
+19: Ordinal860 - 0x74062AF0
+18: Ordinal866 - 0x74068230
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHDefExtractIconW - 0x7400A9B0
+15: Ordinal818 - 0x73FDDF60
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+53: printStack - 0x6E041130
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: Mine_GetProcAddress - 0x6E041330
+49: RtlDecompressBuffer - 0x76F069D0
+48: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+47: LdrShutdownProcess - 0x76EE4340
+46: LdrShutdownProcess - 0x76EE4340
+45: LdrShutdownProcess - 0x76EE4340
+44: EtwEventUnregister - 0x76EDF820
+43: RtlAddAccessAllowedAce - 0x76ED2C80
+42: RtlCompareUnicodeStrings - 0x76ECFAE0
+41: LdrLoadDll - 0x76ED3630
+40: LoadLibraryExW - 0x7643E740
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoGetCallContext - 0x7626F060
+36: CoGetCallContext - 0x7626F060
+35: CoCreateInstance - 0x76250060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoGetCallContext - 0x7626F060
+24: CoGetCallContext - 0x7626F060
+23: CoCreateInstance - 0x76250060
+22: CoCreateInstance - 0x76250060
+21: CoCreateInstance - 0x76250060
+20: Ordinal866 - 0x74068230
+19: Ordinal860 - 0x74062AF0
+18: Ordinal866 - 0x74068230
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHDefExtractIconW - 0x7400A9B0
+15: Ordinal818 - 0x73FDDF60
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+53: printStack - 0x6E041130
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: Mine_GetProcAddress - 0x6E041330
+49: RtlDecompressBuffer - 0x76F069D0
+48: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+47: LdrShutdownProcess - 0x76EE4340
+46: LdrShutdownProcess - 0x76EE4340
+45: LdrShutdownProcess - 0x76EE4340
+44: EtwEventUnregister - 0x76EDF820
+43: RtlAddAccessAllowedAce - 0x76ED2C80
+42: RtlCompareUnicodeStrings - 0x76ECFAE0
+41: LdrLoadDll - 0x76ED3630
+40: LoadLibraryExW - 0x7643E740
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoGetCallContext - 0x7626F060
+36: CoGetCallContext - 0x7626F060
+35: CoCreateInstance - 0x76250060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoGetCallContext - 0x7626F060
+24: CoGetCallContext - 0x7626F060
+23: CoCreateInstance - 0x76250060
+22: CoCreateInstance - 0x76250060
+21: CoCreateInstance - 0x76250060
+20: Ordinal866 - 0x74068230
+19: Ordinal860 - 0x74062AF0
+18: Ordinal866 - 0x74068230
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHDefExtractIconW - 0x7400A9B0
+15: Ordinal818 - 0x73FDDF60
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+54: printStack - 0x6E041130
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: Mine_GetProcAddress - 0x6E041330
+49: RtlDecompressBuffer - 0x76F069D0
+48: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+47: LdrShutdownProcess - 0x76EE4340
+46: LdrShutdownProcess - 0x76EE4340
+45: LdrShutdownProcess - 0x76EE4340
+44: EtwEventUnregister - 0x76EDF820
+43: RtlAddAccessAllowedAce - 0x76ED2C80
+42: RtlCompareUnicodeStrings - 0x76ECFAE0
+41: LdrLoadDll - 0x76ED3630
+40: LoadLibraryExW - 0x7643E740
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoGetCallContext - 0x7626F060
+36: CoGetCallContext - 0x7626F060
+35: CoCreateInstance - 0x76250060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoGetCallContext - 0x7626F060
+24: CoGetCallContext - 0x7626F060
+23: CoCreateInstance - 0x76250060
+22: CoCreateInstance - 0x76250060
+21: CoCreateInstance - 0x76250060
+20: Ordinal866 - 0x74068230
+19: Ordinal860 - 0x74062AF0
+18: Ordinal866 - 0x74068230
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHDefExtractIconW - 0x7400A9B0
+15: Ordinal818 - 0x73FDDF60
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+54: printStack - 0x6E041130
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: Mine_GetProcAddress - 0x6E041330
+49: RtlDecompressBuffer - 0x76F069D0
+48: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+47: LdrShutdownProcess - 0x76EE4340
+46: LdrShutdownProcess - 0x76EE4340
+45: LdrShutdownProcess - 0x76EE4340
+44: EtwEventUnregister - 0x76EDF820
+43: RtlAddAccessAllowedAce - 0x76ED2C80
+42: RtlCompareUnicodeStrings - 0x76ECFAE0
+41: LdrLoadDll - 0x76ED3630
+40: LoadLibraryExW - 0x7643E740
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoGetCallContext - 0x7626F060
+36: CoGetCallContext - 0x7626F060
+35: CoCreateInstance - 0x76250060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoGetCallContext - 0x7626F060
+24: CoGetCallContext - 0x7626F060
+23: CoCreateInstance - 0x76250060
+22: CoCreateInstance - 0x76250060
+21: CoCreateInstance - 0x76250060
+20: Ordinal866 - 0x74068230
+19: Ordinal860 - 0x74062AF0
+18: Ordinal866 - 0x74068230
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHDefExtractIconW - 0x7400A9B0
+15: Ordinal818 - 0x73FDDF60
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+54: printStack - 0x6E041130
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: Mine_GetProcAddress - 0x6E041330
+49: RtlDecompressBuffer - 0x76F069D0
+48: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+47: LdrShutdownProcess - 0x76EE4340
+46: LdrShutdownProcess - 0x76EE4340
+45: LdrShutdownProcess - 0x76EE4340
+44: EtwEventUnregister - 0x76EDF820
+43: RtlAddAccessAllowedAce - 0x76ED2C80
+42: RtlCompareUnicodeStrings - 0x76ECFAE0
+41: LdrLoadDll - 0x76ED3630
+40: LoadLibraryExW - 0x7643E740
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoGetCallContext - 0x7626F060
+36: CoGetCallContext - 0x7626F060
+35: CoCreateInstance - 0x76250060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoGetCallContext - 0x7626F060
+24: CoGetCallContext - 0x7626F060
+23: CoCreateInstance - 0x76250060
+22: CoCreateInstance - 0x76250060
+21: CoCreateInstance - 0x76250060
+20: Ordinal866 - 0x74068230
+19: Ordinal860 - 0x74062AF0
+18: Ordinal866 - 0x74068230
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHDefExtractIconW - 0x7400A9B0
+15: Ordinal818 - 0x73FDDF60
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+54: printStack - 0x6E041130
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: Mine_GetProcAddress - 0x6E041330
+49: RtlDecompressBuffer - 0x76F069D0
+48: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+47: LdrShutdownProcess - 0x76EE4340
+46: LdrShutdownProcess - 0x76EE4340
+45: LdrShutdownProcess - 0x76EE4340
+44: EtwEventUnregister - 0x76EDF820
+43: RtlAddAccessAllowedAce - 0x76ED2C80
+42: RtlCompareUnicodeStrings - 0x76ECFAE0
+41: LdrLoadDll - 0x76ED3630
+40: LoadLibraryExW - 0x7643E740
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoGetCallContext - 0x7626F060
+36: CoGetCallContext - 0x7626F060
+35: CoCreateInstance - 0x76250060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoGetCallContext - 0x7626F060
+24: CoGetCallContext - 0x7626F060
+23: CoCreateInstance - 0x76250060
+22: CoCreateInstance - 0x76250060
+21: CoCreateInstance - 0x76250060
+20: Ordinal866 - 0x74068230
+19: Ordinal860 - 0x74062AF0
+18: Ordinal866 - 0x74068230
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHDefExtractIconW - 0x7400A9B0
+15: Ordinal818 - 0x73FDDF60
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+54: printStack - 0x6E041130
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: Mine_GetProcAddress - 0x6E041330
+49: Mine_GetProcAddress - 0x6E041330
+48: RtlDecompressBuffer - 0x76F069D0
+47: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+46: LdrShutdownProcess - 0x76EE4340
+45: LdrShutdownProcess - 0x76EE4340
+44: EtwEventUnregister - 0x76EDF820
+43: RtlAddAccessAllowedAce - 0x76ED2C80
+42: RtlCompareUnicodeStrings - 0x76ECFAE0
+41: LdrLoadDll - 0x76ED3630
+40: LoadLibraryExW - 0x7643E740
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoGetCallContext - 0x7626F060
+36: CoGetCallContext - 0x7626F060
+35: CoCreateInstance - 0x76250060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoGetCallContext - 0x7626F060
+24: CoGetCallContext - 0x7626F060
+23: CoCreateInstance - 0x76250060
+22: CoCreateInstance - 0x76250060
+21: CoCreateInstance - 0x76250060
+20: Ordinal866 - 0x74068230
+19: Ordinal860 - 0x74062AF0
+18: Ordinal866 - 0x74068230
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHDefExtractIconW - 0x7400A9B0
+15: Ordinal818 - 0x73FDDF60
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+54: printStack - 0x6E041130
+53: Mine_GetProcAddress - 0x6E041330
+52: Mine_GetProcAddress - 0x6E041330
+51: Mine_GetProcAddress - 0x6E041330
+50: Mine_GetProcAddress - 0x6E041330
+49: Mine_GetProcAddress - 0x6E041330
+48: RtlDecompressBuffer - 0x76F069D0
+47: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+46: LdrShutdownProcess - 0x76EE4340
+45: LdrShutdownProcess - 0x76EE4340
+44: EtwEventUnregister - 0x76EDF820
+43: RtlAddAccessAllowedAce - 0x76ED2C80
+42: RtlCompareUnicodeStrings - 0x76ECFAE0
+41: LdrLoadDll - 0x76ED3630
+40: LoadLibraryExW - 0x7643E740
+39: CoGetCallContext - 0x7626F060
+38: CoGetCallContext - 0x7626F060
+37: CoGetCallContext - 0x7626F060
+36: CoGetCallContext - 0x7626F060
+35: CoCreateInstance - 0x76250060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoGetCallContext - 0x7626F060
+24: CoGetCallContext - 0x7626F060
+23: CoCreateInstance - 0x76250060
+22: CoCreateInstance - 0x76250060
+21: CoCreateInstance - 0x76250060
+20: Ordinal866 - 0x74068230
+19: Ordinal860 - 0x74062AF0
+18: Ordinal866 - 0x74068230
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHDefExtractIconW - 0x7400A9B0
+15: Ordinal818 - 0x73FDDF60
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+LoadLibraryA_StackTrace:
+
+47: printStack - 0x6E041130
+46: Mine_LoadLibraryA - 0x6E041460
+45: Mine_LoadLibraryA - 0x6E041460
+44: Mine_LoadLibraryA - 0x6E041460
+43: Mine_LoadLibraryA - 0x6E041460
+42: Mine_LoadLibraryA - 0x6E041460
+41: Mine_LoadLibraryA - 0x6E041460
+40: Mine_LoadLibraryA - 0x6E041460
+39: Mine_LoadLibraryA - 0x6E041460
+38: Mine_LoadLibraryA - 0x6E041460
+37: CLSIDFromString - 0x7627E3D0
+36: CLSIDFromString - 0x7627E3D0
+35: CoCreateInstance - 0x76250060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoGetCallContext - 0x7626F060
+24: CoGetCallContext - 0x7626F060
+23: CoCreateInstance - 0x76250060
+22: CoCreateInstance - 0x76250060
+21: CoCreateInstance - 0x76250060
+20: Ordinal866 - 0x74068230
+19: Ordinal860 - 0x74062AF0
+18: Ordinal866 - 0x74068230
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHDefExtractIconW - 0x7400A9B0
+15: Ordinal818 - 0x73FDDF60
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+47: printStack - 0x6E041130
+46: Mine_GetProcAddress - 0x6E041330
+45: Mine_GetProcAddress - 0x6E041330
+44: Mine_GetProcAddress - 0x6E041330
+43: Mine_GetProcAddress - 0x6E041330
+42: Mine_GetProcAddress - 0x6E041330
+41: Mine_GetProcAddress - 0x6E041330
+40: Mine_GetProcAddress - 0x6E041330
+39: Mine_GetProcAddress - 0x6E041330
+38: Mine_GetProcAddress - 0x6E041330
+37: CLSIDFromString - 0x7627E3D0
+36: CLSIDFromString - 0x7627E3D0
+35: CoCreateInstance - 0x76250060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoGetCallContext - 0x7626F060
+24: CoGetCallContext - 0x7626F060
+23: CoCreateInstance - 0x76250060
+22: CoCreateInstance - 0x76250060
+21: CoCreateInstance - 0x76250060
+20: Ordinal866 - 0x74068230
+19: Ordinal860 - 0x74062AF0
+18: Ordinal866 - 0x74068230
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHDefExtractIconW - 0x7400A9B0
+15: Ordinal818 - 0x73FDDF60
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+LoadLibraryA_StackTrace:
+
+51: printStack - 0x6E041130
+50: Mine_LoadLibraryA - 0x6E041460
+49: Mine_LoadLibraryA - 0x6E041460
+48: Mine_LoadLibraryA - 0x6E041460
+47: Mine_LoadLibraryA - 0x6E041460
+46: Mine_LoadLibraryA - 0x6E041460
+45: Mine_LoadLibraryA - 0x6E041460
+44: Mine_LoadLibraryA - 0x6E041460
+43: Mine_LoadLibraryA - 0x6E041460
+42: Mine_LoadLibraryA - 0x6E041460
+41: Mine_LoadLibraryA - 0x6E041460
+40: Mine_LoadLibraryA - 0x6E041460
+39: Mine_LoadLibraryA - 0x6E041460
+38: Mine_LoadLibraryA - 0x6E041460
+37: CLSIDFromString - 0x7627E3D0
+36: CLSIDFromString - 0x7627E3D0
+35: CoCreateInstance - 0x76250060
+34: CoGetCallContext - 0x7626F060
+33: CoGetCallContext - 0x7626F060
+32: CoGetCallContext - 0x7626F060
+31: CoGetCallContext - 0x7626F060
+30: CoGetCallContext - 0x7626F060
+29: CoGetCallContext - 0x7626F060
+28: CoGetCallContext - 0x7626F060
+27: CoGetCallContext - 0x7626F060
+26: CoGetCallContext - 0x7626F060
+25: CoGetCallContext - 0x7626F060
+24: CoGetCallContext - 0x7626F060
+23: CoCreateInstance - 0x76250060
+22: CoCreateInstance - 0x76250060
+21: CoCreateInstance - 0x76250060
+20: Ordinal866 - 0x74068230
+19: Ordinal860 - 0x74062AF0
+18: Ordinal866 - 0x74068230
+17: SHGetStockIconInfo - 0x7400AE80
+16: SHDefExtractIconW - 0x7400A9B0
+15: Ordinal818 - 0x73FDDF60
+14: SHBindToFolderIDListParentEx - 0x75E218F0
+13: SHBindToFolderIDListParentEx - 0x75E218F0
+12: Ordinal809 - 0x75CB0000
+11: SHBindToFolderIDListParentEx - 0x75E218F0
+10: SHBindToFolderIDListParentEx - 0x75E218F0
+9: DllCanUnloadNow - 0x638CC490
+8: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+7: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+6: SHCreateShellItemArrayFromIDLists - 0x75DF62C0
+5: SHRegGetValueA - 0x75323350
+4: TpWaitForWait - 0x76EE4C10
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+

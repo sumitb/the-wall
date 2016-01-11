@@ -1,0 +1,17 @@
+- Remove printStack
+- Remove memory addresses
+- Remove contiguous duplicate function calls
+- Remove 'Mine_' keyowrd from 'Detoured function'
+- Remove detour functions like - DetourTransactionBegin, DetourDetach, DetourTransactionCommit, DetourTransactionCommitEx
+
+
+> Get data for all 6 (finally 52) list of functions.
+> Test with Adobe Reader and Windows Media Player
+> With various kind of pdf files like Acroform, javascript, udf
+
+
+> Unique Stack trace data sturcture:
+Find all legitimate paths to VirtualProtect for one instance of application (Test type)
+- {'VirtualProtect': [TotalCount, Stack_Trace_1, StacK_Trace_2]}
+- Total count of function invocation/detoured in total.
+- 

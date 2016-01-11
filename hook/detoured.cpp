@@ -40,8 +40,9 @@ void WriteLog(wchar_t* text)
 
 void EnableLogger(void) 
 {
-	WriteLog("Hello, I'm a dll\n");
-	sprintf_s(logBuffer, TEXT("Start of log file.\n"));
+	// sprintf_s(logBuffer, TEXT("Start of log file."));
+	long int before = GetTickCount();
+	sprintf_s(logBuffer, "%d" , before);
 	WriteLog(logBuffer);
 }
 
@@ -102,9 +103,9 @@ void printStack(void)
 	SYMBOL_INFO  * symbol;
 	HANDLE         process;
 	char		   buffer[100];
-	char		   stackBuffer[3000];
+	char		   stackBuffer[2500];
 
-	MessageBoxA(NULL, "Debug", "Stack Trace", MB_OK);
+	// MessageBoxA(NULL, "Debug", "Stack Trace", MB_OK);
 	process = GetCurrentProcess();
 
 	SymInitialize(process, NULL, TRUE);
@@ -113,6 +114,7 @@ void printStack(void)
 	symbol = (SYMBOL_INFO *)calloc(sizeof(SYMBOL_INFO) + 256 * sizeof(char), 1);
 	symbol->MaxNameLen = 255;
 	symbol->SizeOfStruct = sizeof(SYMBOL_INFO);
+	ZeroMemory(buffer, sizeof(stackBuffer));
 
 	for (i = 0; i < frames; i++)
 	{
@@ -123,7 +125,10 @@ void printStack(void)
 	}
 	//MessageBoxA(NULL, stackBuffer, "Stack Trace", MB_OK);
 	//sprintf_s(logBuffer, "Stack Trace: %s", stackBuffer);
-	WriteLog(TEXT("Stack Trace: \r\n"));
+	long int after = GetTickCount();
+	sprintf_s(logBuffer, "%d", after);
+	WriteLog(logBuffer);
+
 	WriteLog(stackBuffer);
 	free(symbol);
 }
@@ -245,6 +250,10 @@ FARPROC __stdcall Mine_GetProcAddress(HMODULE a0,
 	//MessageBoxA(NULL, "GetProcAddress hook!!", "Hook Message", MB_OK);
 	//logger((LPSTR)count);
 	//logger(". GetProcAddress hook!!\n");
+
+	WriteLog(TEXT("GetProcAddress_StackTrace:\n"));
+	printStack();
+	WriteLog(TEXT("n00b\n"));
 	FARPROC rv = 0;
 	__try {
 		rv = Real_GetProcAddress(a0, a1);
@@ -260,6 +269,10 @@ HMODULE __stdcall Mine_LoadLibraryA(LPCSTR a0)
 {
 	//_PrintEnter("LoadLibraryA(%hs)\n", a0);
 	//MessageBoxA(NULL, "LoadLibraryA hook!!", "Hook Message", MB_OK);
+
+	WriteLog(TEXT("LoadLibraryA_StackTrace:\n"));
+	printStack();
+	WriteLog(TEXT("n00b\n"));
 	HMODULE rv = 0;
 	__try {
 		rv = Real_LoadLibraryA(a0);
@@ -276,6 +289,10 @@ HMODULE __stdcall Mine_LoadLibraryExA(LPCSTR a0,
 {
 	//_PrintEnter("LoadLibraryExA(%hs,%p,%p)\n", a0, a1, a2);
 	//MessageBoxA(NULL, "LoadLibraryExA hook!!", "Hook Message", MB_OK);
+	
+	WriteLog(TEXT("LoadLibraryExA_StackTrace:\n"));
+	printStack();
+	WriteLog(TEXT("n00b\n"));
 	HMODULE rv = 0;
 	__try {
 		rv = Real_LoadLibraryExA(a0, a1, a2);
@@ -292,6 +309,10 @@ HMODULE __stdcall Mine_LoadLibraryExW(LPCWSTR a0,
 {
 	//_PrintEnter("LoadLibraryExW(%ls,%p,%p)\n", a0, a1, a2);
 	//MessageBoxA(NULL, "LoadLibraryExW hook!!", "Hook Message", MB_OK);
+	
+	WriteLog(TEXT("LoadLibraryExW_StackTrace:\n"));
+	printStack();
+	WriteLog(TEXT("n00b\n"));
 	HMODULE rv = 0;
 	__try {
 		rv = Real_LoadLibraryExW(a0, a1, a2);
@@ -306,6 +327,10 @@ HMODULE __stdcall Mine_LoadLibraryW(LPCWSTR a0)
 {
 	//_PrintEnter("LoadLibraryW(%ls)\n", a0);
 	//MessageBoxA(NULL, "LoadLibraryW hook!!", "Hook Message", MB_OK);
+
+	WriteLog(TEXT("LoadLibraryW_StackTrace:\n"));
+	printStack();
+	WriteLog(TEXT("n00b\n"));
 	HMODULE rv = 0;
 	__try {
 		rv = Real_LoadLibraryW(a0);
@@ -322,6 +347,10 @@ LPVOID __stdcall Mine_VirtualAlloc(LPVOID a0,
 	DWORD a3)
 {
 	//MessageBoxA(NULL, "VirtualAlloc hook!!", "Hook Message", MB_OK);
+
+	WriteLog(TEXT("VirtualAlloc_StackTrace:\n"));
+	printStack();
+	WriteLog(TEXT("n00b\n"));
 	LPVOID rv = 0;
 	rv = Real_VirtualAlloc(a0, a1, a2, a3);
 	return rv;
@@ -335,6 +364,10 @@ LPVOID __stdcall Mine_VirtualAllocEx(HANDLE a0,
 {
 	//_PrintEnter("VirtualAllocEx(%p,%p,%p,%p,%p)\n", a0, a1, a2, a3, a4);
 	//MessageBoxA(NULL, "VirtualAllocEx hook!!", "Hook Message", MB_OK);
+
+	WriteLog(TEXT("VirtualAllocEx_StackTrace:\n"));
+	printStack();
+	WriteLog(TEXT("n00b\n"));
 	LPVOID rv = 0;
 	__try {
 		rv = Real_VirtualAllocEx(a0, a1, a2, a3, a4);
@@ -353,7 +386,9 @@ BOOL __stdcall Mine_VirtualProtect(LPVOID a0,
 	// _PrintEnter("VirtualProtectEx(%p,%p,%p,%p,%p)\n", a0, a1, a2, a3, a4);
 	// MessageBoxA(NULL, "VirtualProtect hook!!", "Hook Message", MB_OK);
 	
+	WriteLog(TEXT("VirtualProtect_StackTrace:\n"));
 	printStack();
+	WriteLog(TEXT("n00b\n"));
 	BOOL rv = 0;
 	__try {
 		rv = Real_VirtualProtect(a0, a1, a2, a3);
@@ -372,6 +407,10 @@ BOOL __stdcall Mine_VirtualProtectEx(HANDLE a0,
 {
 	//_PrintEnter("VirtualProtectEx(%p,%p,%p,%p,%p)\n", a0, a1, a2, a3, a4);
 	//MessageBoxA(NULL, "VirtualProtectEx hook!!", "Hook Message", MB_OK);
+	
+	WriteLog(TEXT("VirtualProtectEx_StackTrace:\n"));
+	printStack();
+	WriteLog(TEXT("n00b\n"));
 	BOOL rv = 0;
 	__try {
 		rv = Real_VirtualProtectEx(a0, a1, a2, a3, a4);

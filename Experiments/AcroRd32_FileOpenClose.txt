@@ -1,0 +1,2256 @@
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6DAF1130
+19: Mine_VirtualProtect - 0x6DAF1B30
+18: DetourTransactionCommitEx - 0x6DAF3C60
+17: DetourTransactionCommit - 0x6DAF3C50
+16: DllMain - 0x6DAF1D90
+15: __DllMainCRTStartup - 0x6DAF4C95
+14: _DllMainCRTStartup - 0x6DAF4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6DAF1130
+19: Mine_VirtualProtect - 0x6DAF1B30
+18: DetourTransactionCommitEx - 0x6DAF3C60
+17: DetourTransactionCommit - 0x6DAF3C50
+16: DllMain - 0x6DAF1D90
+15: __DllMainCRTStartup - 0x6DAF4C95
+14: _DllMainCRTStartup - 0x6DAF4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6DAF1130
+19: Mine_VirtualProtect - 0x6DAF1B30
+18: DetourTransactionCommitEx - 0x6DAF3C60
+17: DetourTransactionCommit - 0x6DAF3C50
+16: DllMain - 0x6DAF1D90
+15: __DllMainCRTStartup - 0x6DAF4C95
+14: _DllMainCRTStartup - 0x6DAF4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6DAF1130
+19: Mine_VirtualProtect - 0x6DAF1B30
+18: DetourTransactionCommitEx - 0x6DAF3C60
+17: DetourTransactionCommit - 0x6DAF3C50
+16: DllMain - 0x6DAF1D90
+15: __DllMainCRTStartup - 0x6DAF4C95
+14: _DllMainCRTStartup - 0x6DAF4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6DAF1130
+19: Mine_VirtualProtect - 0x6DAF1B30
+18: DetourTransactionCommitEx - 0x6DAF3C60
+17: DetourTransactionCommit - 0x6DAF3C50
+16: DllMain - 0x6DAF1D90
+15: __DllMainCRTStartup - 0x6DAF4C95
+14: _DllMainCRTStartup - 0x6DAF4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6DAF1130
+19: Mine_VirtualProtect - 0x6DAF1B30
+18: DetourTransactionCommitEx - 0x6DAF3C60
+17: DetourTransactionCommit - 0x6DAF3C50
+16: DllMain - 0x6DAF1D90
+15: __DllMainCRTStartup - 0x6DAF4C95
+14: _DllMainCRTStartup - 0x6DAF4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6DAF1130
+19: Mine_VirtualProtect - 0x6DAF1B30
+18: DetourTransactionCommitEx - 0x6DAF3C60
+17: DetourTransactionCommit - 0x6DAF3C50
+16: DllMain - 0x6DAF1D90
+15: __DllMainCRTStartup - 0x6DAF4C95
+14: _DllMainCRTStartup - 0x6DAF4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6DAF1130
+19: Mine_VirtualProtect - 0x6DAF1B30
+18: DetourTransactionCommitEx - 0x6DAF3C60
+17: DetourTransactionCommit - 0x6DAF3C50
+16: DllMain - 0x6DAF1D90
+15: __DllMainCRTStartup - 0x6DAF4C95
+14: _DllMainCRTStartup - 0x6DAF4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6DAF1130
+19: Mine_VirtualProtect - 0x6DAF1B30
+18: DetourTransactionCommitEx - 0x6DAF3C60
+17: DetourTransactionCommit - 0x6DAF3C50
+16: DllMain - 0x6DAF1D90
+15: __DllMainCRTStartup - 0x6DAF4C95
+14: _DllMainCRTStartup - 0x6DAF4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+20: printStack - 0x6DAF1130
+19: Mine_VirtualProtect - 0x6DAF1B30
+18: DetourTransactionCommitEx - 0x6DAF3C60
+17: DetourTransactionCommit - 0x6DAF3C50
+16: DllMain - 0x6DAF1D90
+15: __DllMainCRTStartup - 0x6DAF4C95
+14: _DllMainCRTStartup - 0x6DAF4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+21: printStack - 0x6DAF1130
+20: Mine_VirtualProtect - 0x6DAF1B30
+19: detour_runnable_trampoline_regions - 0x6DAF32C0
+18: DetourTransactionCommitEx - 0x6DAF3C60
+17: DetourTransactionCommit - 0x6DAF3C50
+16: DllMain - 0x6DAF1D90
+15: __DllMainCRTStartup - 0x6DAF4C95
+14: _DllMainCRTStartup - 0x6DAF4C72
+13: RtlDecompressBuffer - 0x76F069D0
+12: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+11: LdrShutdownProcess - 0x76EE4340
+10: LdrShutdownProcess - 0x76EE4340
+9: EtwEventUnregister - 0x76EDF820
+8: RtlAddAccessAllowedAce - 0x76ED2C80
+7: RtlCompareUnicodeStrings - 0x76ECFAE0
+6: LdrLoadDll - 0x76ED3630
+5: LoadLibraryExW - 0x7643E740
+4: LoadLibraryExA - 0x7643CB90
+3: LoadLibraryA - 0x7643C810
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+37: printStack - 0x6DAF1130
+36: Mine_GetProcAddress - 0x6DAF1330
+35: Mine_GetProcAddress - 0x6DAF1330
+34: Mine_GetProcAddress - 0x6DAF1330
+33: Mine_GetProcAddress - 0x6DAF1330
+32: RtlDecompressBuffer - 0x76F069D0
+31: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+30: LdrShutdownProcess - 0x76EE4340
+29: LdrShutdownProcess - 0x76EE4340
+28: EtwEventUnregister - 0x76EDF820
+27: RtlAddAccessAllowedAce - 0x76ED2C80
+26: RtlCompareUnicodeStrings - 0x76ECFAE0
+25: LdrLoadDll - 0x76ED3630
+24: LoadLibraryExW - 0x7643E740
+23: CryptSIPRetrieveSubjectGuidForCatalogFile - 0x75862100
+22: CryptGetDefaultOIDFunctionAddress - 0x758632A0
+21: CryptVerifyMessageSignatureWithKey - 0x758B95E0
+20: CryptExportPublicKeyInfoEx - 0x75887450
+19: CertVerifyCertificateChainPolicy - 0x75869030
+18: CertVerifyCertificateChainPolicy - 0x75869030
+17: CertVerifyCertificateChainPolicy - 0x75869030
+16: CertVerifyCertificateChainPolicy - 0x75869030
+15: InternetQueryDataAvailable - 0x72077280
+14: CommitUrlCacheEntryW - 0x72031CB0
+13: CommitUrlCacheEntryW - 0x72031CB0
+12: CommitUrlCacheEntryW - 0x72031CB0
+11: CommitUrlCacheEntryW - 0x72031CB0
+10: UrlCacheCreateContainer - 0x7208A740
+9: InternetReadFile - 0x72037320
+8: InternetReadFile - 0x72037320
+7: CommitUrlCacheEntryW - 0x72031CB0
+6: CommitUrlCacheEntryW - 0x72031CB0
+5: FreeEnvironmentStringsA - 0x76452420
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+13: printStack - 0x6DAF1130
+12: Mine_GetProcAddress - 0x6DAF1330
+11: Mine_GetProcAddress - 0x6DAF1330
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+13: printStack - 0x6DAF1130
+12: Mine_GetProcAddress - 0x6DAF1330
+11: Mine_GetProcAddress - 0x6DAF1330
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+13: printStack - 0x6DAF1130
+12: Mine_GetProcAddress - 0x6DAF1330
+11: Mine_GetProcAddress - 0x6DAF1330
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+13: printStack - 0x6DAF1130
+12: Mine_GetProcAddress - 0x6DAF1330
+11: Mine_GetProcAddress - 0x6DAF1330
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+13: printStack - 0x6DAF1130
+12: Mine_GetProcAddress - 0x6DAF1330
+11: Mine_GetProcAddress - 0x6DAF1330
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+14: printStack - 0x6DAF1130
+13: Mine_GetProcAddress - 0x6DAF1330
+12: Mine_GetProcAddress - 0x6DAF1330
+11: Mine_GetProcAddress - 0x6DAF1330
+10: Mine_GetProcAddress - 0x6DAF1330
+9: Mine_GetProcAddress - 0x6DAF1330
+8: Mine_GetProcAddress - 0x6DAF1330
+7: Mine_GetProcAddress - 0x6DAF1330
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+13: printStack - 0x6DAF1130
+12: Mine_GetProcAddress - 0x6DAF1330
+11: Mine_GetProcAddress - 0x6DAF1330
+10: Mine_GetProcAddress - 0x6DAF1330
+9: Mine_GetProcAddress - 0x6DAF1330
+8: Mine_GetProcAddress - 0x6DAF1330
+7: Mine_GetProcAddress - 0x6DAF1330
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+8: printStack - 0x6DAF1130
+7: Mine_GetProcAddress - 0x6DAF1330
+6: Mine_GetProcAddress - 0x6DAF1330
+5: Mine_GetProcAddress - 0x6DAF1330
+4: Mine_GetProcAddress - 0x6DAF1330
+3: Mine_GetProcAddress - 0x6DAF1330
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+LoadLibraryW_StackTrace:
+
+10: printStack - 0x6DAF1130
+9: Mine_LoadLibraryW - 0x6DAF17E0
+8: Mine_LoadLibraryW - 0x6DAF17E0
+7: Mine_LoadLibraryW - 0x6DAF17E0
+6: Mine_LoadLibraryW - 0x6DAF17E0
+5: Mine_LoadLibraryW - 0x6DAF17E0
+4: Mine_LoadLibraryW - 0x6DAF17E0
+3: Mine_LoadLibraryW - 0x6DAF17E0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+8: printStack - 0x6DAF1130
+7: Mine_GetProcAddress - 0x6DAF1330
+6: Mine_GetProcAddress - 0x6DAF1330
+5: Mine_GetProcAddress - 0x6DAF1330
+4: Mine_GetProcAddress - 0x6DAF1330
+3: Mine_GetProcAddress - 0x6DAF1330
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+8: printStack - 0x6DAF1130
+7: Mine_GetProcAddress - 0x6DAF1330
+6: Mine_GetProcAddress - 0x6DAF1330
+5: Mine_GetProcAddress - 0x6DAF1330
+4: Mine_GetProcAddress - 0x6DAF1330
+3: Mine_GetProcAddress - 0x6DAF1330
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+8: printStack - 0x6DAF1130
+7: Mine_GetProcAddress - 0x6DAF1330
+6: Mine_GetProcAddress - 0x6DAF1330
+5: Mine_GetProcAddress - 0x6DAF1330
+4: Mine_GetProcAddress - 0x6DAF1330
+3: Mine_GetProcAddress - 0x6DAF1330
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+8: printStack - 0x6DAF1130
+7: Mine_GetProcAddress - 0x6DAF1330
+6: Mine_GetProcAddress - 0x6DAF1330
+5: Mine_GetProcAddress - 0x6DAF1330
+4: Mine_GetProcAddress - 0x6DAF1330
+3: Mine_GetProcAddress - 0x6DAF1330
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+14: printStack - 0x6DAF1130
+13: Mine_GetProcAddress - 0x6DAF1330
+12: Mine_GetProcAddress - 0x6DAF1330
+11: Mine_GetProcAddress - 0x6DAF1330
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+15: printStack - 0x6DAF1130
+14: Mine_GetProcAddress - 0x6DAF1330
+13: Mine_GetProcAddress - 0x6DAF1330
+12: Mine_GetProcAddress - 0x6DAF1330
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+15: printStack - 0x6DAF1130
+14: Mine_GetProcAddress - 0x6DAF1330
+13: Mine_GetProcAddress - 0x6DAF1330
+12: Mine_GetProcAddress - 0x6DAF1330
+11: AcroRd32IsBrokerProcess - 0x9BBB80
+10: AcroRd32IsBrokerProcess - 0x9BBB80
+9: AcroRd32IsBrokerProcess - 0x9BBB80
+8: AcroRd32IsBrokerProcess - 0x9BBB80
+7: AcroRd32IsBrokerProcess - 0x9BBB80
+6: RtlDeleteTimerQueueEx - 0x76EB0BD0
+5: RtlpUnWaitCriticalSection - 0x76EE5D50
+4: RtlpUnWaitCriticalSection - 0x76EE5D50
+3: EtwNotificationRegister - 0x76ED9ED0
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+GetProcAddress_StackTrace:
+
+8: printStack - 0x6DAF1130
+7: Mine_GetProcAddress - 0x6DAF1330
+6: Mine_GetProcAddress - 0x6DAF1330
+5: Mine_GetProcAddress - 0x6DAF1330
+4: Mine_GetProcAddress - 0x6DAF1330
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+18: printStack - 0x6DAF1130
+17: Mine_VirtualProtect - 0x6DAF1B30
+16: detour_writable_trampoline_regions - 0x6DAF3480
+15: DetourTransactionBegin - 0x6DAF3BE0
+14: DllMain - 0x6DAF1D90
+13: __DllMainCRTStartup - 0x6DAF4C95
+12: _DllMainCRTStartup - 0x6DAF4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+17: printStack - 0x6DAF1130
+16: Mine_VirtualProtect - 0x6DAF1B30
+15: DetourDetach - 0x6DAF3900
+14: DllMain - 0x6DAF1D90
+13: __DllMainCRTStartup - 0x6DAF4C95
+12: _DllMainCRTStartup - 0x6DAF4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+17: printStack - 0x6DAF1130
+16: Mine_VirtualProtect - 0x6DAF1B30
+15: DetourDetach - 0x6DAF3900
+14: DllMain - 0x6DAF1D90
+13: __DllMainCRTStartup - 0x6DAF4C95
+12: _DllMainCRTStartup - 0x6DAF4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+17: printStack - 0x6DAF1130
+16: Mine_VirtualProtect - 0x6DAF1B30
+15: DetourDetach - 0x6DAF3900
+14: DllMain - 0x6DAF1D90
+13: __DllMainCRTStartup - 0x6DAF4C95
+12: _DllMainCRTStartup - 0x6DAF4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+17: printStack - 0x6DAF1130
+16: Mine_VirtualProtect - 0x6DAF1B30
+15: DetourDetach - 0x6DAF3900
+14: DllMain - 0x6DAF1D90
+13: __DllMainCRTStartup - 0x6DAF4C95
+12: _DllMainCRTStartup - 0x6DAF4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+17: printStack - 0x6DAF1130
+16: Mine_VirtualProtect - 0x6DAF1B30
+15: DetourDetach - 0x6DAF3900
+14: DllMain - 0x6DAF1D90
+13: __DllMainCRTStartup - 0x6DAF4C95
+12: _DllMainCRTStartup - 0x6DAF4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+17: printStack - 0x6DAF1130
+16: Mine_VirtualProtect - 0x6DAF1B30
+15: DetourDetach - 0x6DAF3900
+14: DllMain - 0x6DAF1D90
+13: __DllMainCRTStartup - 0x6DAF4C95
+12: _DllMainCRTStartup - 0x6DAF4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+17: printStack - 0x6DAF1130
+16: Mine_VirtualProtect - 0x6DAF1B30
+15: DetourDetach - 0x6DAF3900
+14: DllMain - 0x6DAF1D90
+13: __DllMainCRTStartup - 0x6DAF4C95
+12: _DllMainCRTStartup - 0x6DAF4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+17: printStack - 0x6DAF1130
+16: Mine_VirtualProtect - 0x6DAF1B30
+15: DetourDetach - 0x6DAF3900
+14: DllMain - 0x6DAF1D90
+13: __DllMainCRTStartup - 0x6DAF4C95
+12: _DllMainCRTStartup - 0x6DAF4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+17: printStack - 0x6DAF1130
+16: Mine_VirtualProtect - 0x6DAF1B30
+15: DetourDetach - 0x6DAF3900
+14: DllMain - 0x6DAF1D90
+13: __DllMainCRTStartup - 0x6DAF4C95
+12: _DllMainCRTStartup - 0x6DAF4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
+VirtualProtect_StackTrace:
+
+17: printStack - 0x6DAF1130
+16: Mine_VirtualProtect - 0x6DAF1B30
+15: DetourDetach - 0x6DAF3900
+14: DllMain - 0x6DAF1D90
+13: __DllMainCRTStartup - 0x6DAF4C95
+12: _DllMainCRTStartup - 0x6DAF4C72
+11: RtlDecompressBuffer - 0x76F069D0
+10: RtlAnsiCharToUnicodeChar - 0x76ECA5D0
+9: LdrShutdownProcess - 0x76EE4340
+8: RtlExitUserProcess - 0x76EE4890
+7: ExitProcess - 0x75777B30
+6: ExitProcess - 0x75777B30
+5: AcroRd32IsBrokerProcess - 0x9BBB80
+4: AcroRd32IsBrokerProcess - 0x9BBB80
+3: AcroRd32IsBrokerProcess - 0x9BBB80
+2: BaseThreadInitThunk - 0x757638D0
+1: RtlUnicodeStringToInteger - 0x76EF5470
+0: RtlUnicodeStringToInteger - 0x76EF5470
+
+n00b
+
