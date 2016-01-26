@@ -41,8 +41,8 @@ void WriteLog(wchar_t* text)
 void EnableLogger(void) 
 {
 	// sprintf_s(logBuffer, TEXT("Start of log file."));
-	long int before = GetTickCount();
-	sprintf_s(logBuffer, "%d" , before);
+	unsigned long long before = GetTickCount();
+	sprintf_s(logBuffer, "Process start at %llu" , before);
 	WriteLog(logBuffer);
 }
 
@@ -125,8 +125,8 @@ void printStack(void)
 	}
 	//MessageBoxA(NULL, stackBuffer, "Stack Trace", MB_OK);
 	//sprintf_s(logBuffer, "Stack Trace: %s", stackBuffer);
-	long int after = GetTickCount();
-	sprintf_s(logBuffer, "%d", after);
+	unsigned long long after = GetTickCount();
+	sprintf_s(logBuffer, "%llu", after);
 	WriteLog(logBuffer);
 
 	WriteLog(stackBuffer);
@@ -465,6 +465,9 @@ BOOL WINAPI DllMain(HINSTANCE hinst, DWORD dwReason, LPVOID reserved)
 		DETACH(VirtualProtect);
 		DETACH(VirtualProtectEx);
 		DetourTransactionCommit();
+		unsigned long long after = GetTickCount();
+		sprintf_s(logBuffer, "Process close at %llu", after);
+		WriteLog(logBuffer);
 		//CloseHandle(hFile);
 	}
 	return TRUE;

@@ -18,13 +18,21 @@ class LogFilter(object):
 		self.api = {}
 
 	def main(self):
+		# import pefile as pe
+		import numpy as np
+		import matplotlib.pyplot as plt
 		from itertools import groupby
 
 		# Open log file
 		with open(self.logfile) as f:
 			data = f.read()
-			startTime = int(data.split('\n')[0])
-			data = '\n'.join(data.split('\n')[1:])
+			dataList = data.strip().split('\n')
+			startTime = int(dataList[0].strip().split(' ')[-1])
+			endTime = (int(dataList[-1].strip().split(' ')[-1]) - startTime) / 1000
+			
+			# Remove first and last element and rejoin
+			dataList.pop()
+			data = '\n'.join(dataList[1:])
 			data = data.split('n00b')
 
 			for stack in data:
@@ -32,7 +40,7 @@ class LogFilter(object):
 				if stack == ['']:
 					continue
 				functionName = stack[0].split('_')[0]
-				stackTime = int(stack[2]) - startTime
+				stackTime = (int(stack[2]) - startTime) / 1000
 				stackTrace = stack[3:]
 
 				# filter only function calls
@@ -44,23 +52,33 @@ class LogFilter(object):
 
 				if functionName.strip():
 					if functionName not in self.api:
-						self.api[functionName] = [1, [stackTrace], stackTime]
+						self.api[functionName] = [1, [stackTrace], [stackTime]]
 					else:
 						self.api[functionName][0] = self.api[functionName][0] + 1
+						self.api[functionName][2].append(stackTime)
 						if stackTrace not in self.api[functionName][1]: 
 							self.api[functionName][1].append(stackTrace)
-						if stackTime > self.api[functionName][2]: 
-							self.api[functionName][2] = stackTime
+						# if stackTime > self.api[functionName][2]: 
+							# self.api[functionName][2].append(stackTime)
 		
+		plt.figure(1)
+		plotnum = 0
+		f, axarr = plt.subplots(len(self.api), sharex=True)
 		for k, v in self.api.iteritems():
 			print k + ' total detoured calls: ' + str(v[0])
-			print 'Last accessed at: ' + str(v[2])
+			print 'Last accessed at: ' + str(max(v[2]))
+			data = [0] + v[2] + [endTime]
+			axarr[plotnum].set_ylabel(k)
+			axarr[plotnum].hist(data, bins=np.arange(min(data), max(data)+1)) # plotting the column as histogram 
+			
 			for j, st in enumerate(v[1]):
 				print 'Stack Trace ' + str(j+1) + ' :'
 				for i, line in enumerate(st):
 					print str(len(st)-i-1) + '. ' + line
 				print 
-		
+			plotnum = plotnum + 1
+		plt.xlabel('time (s)')
+		plt.show()
 
 if __name__ == '__main__':
 	lofi = LogFilter()
