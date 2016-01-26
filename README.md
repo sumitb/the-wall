@@ -11,8 +11,12 @@ Detours tutorial: http://resources.infosecinstitute.com/api-hooking-detours/
 Before moving to detours we tried to use Microsoft Shims framework for hooking into Win32/64 API functions.
 Shims tutorial: http://www.ibm.com/developerworks/rational/library/shims-incompatible-runtime-environments/
 
-1. Fork/clone this repo.
+1. Fork/clone dllinject branch of this repo.
 2. Build the cse523.sln
-3. Run injector.exee tool <Usage: injector.exe <PID of process> >
+3. This will build detoured.dll and injector.exe which will be used further.
+4. All python scripts exist in the Experiments folder.
+	> pdfget.py - Use this script to download all pdfs from a root url like gutenberg project, etc.
+	> run.py - This is the main script which will use executables generated in the above step to run on any Application. The default testing application is Adobe Reader DC. Please install it accordingly and ensure the path is valid. This will generate a temorary file named as MyLogFile.txt in the Release folder.
+	> log_filter.py - This generates the graph, collates the data in the visual format and store log files in the Experiments folder. 
 
-Note: dll path related hard-codings exist, please modify them for now. I'll fix it later.
+Note: dll path related hard-codings exist, please modify them for now.
