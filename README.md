@@ -1,7 +1,6 @@
 # the-wall
 Advanced project under Prof. Michalis Polychronakis
 
-Project Proposal: https://www.dropbox.com/s/szawo36bn61xe44/Project_Proposal.docx?dl=0
 Results: https://www.dropbox.com/s/2pw21ams84mvyzw/Results.xlsx?dl=0
 
 Pre-requisities: Detours Express 3.0, Visual Studio 2013
